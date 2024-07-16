@@ -1,0 +1,8 @@
+transformers
+torch
+nltk
+sacremoses
+peft
+deepspeed
+fuzzywuzzy
+rouge
