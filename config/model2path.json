@@ -1,0 +1,19 @@
+{
+    "llama2-7b-chat-4k": "/meta-llama/Llama-2-7b-chat-hf",
+    "longchat": "/share/shared_models/models--lmsys--longchat-7b-v1.5-32k/snapshots/16deb633ef4d6a18d5750239edc5a85ffeaf3918",
+    "xgen-7b-8k": "Salesforce/xgen-7b-8k-inst",
+    "internlm-7b-8k": "internlm/internlm-chat-7b-8k",
+    "chatglm2-6b": "THUDM/chatglm2-6b",
+    "chatglm2-6b-32k": "THUDM/chatglm2-6b-32k",
+    "chatglm3-6b-32k": "/home/qhj/dw/code/llm_sft/llm/chatglm3-6b-32k",
+    "vicuna-v1.5-7b-16k": "/home/qhj/dw/code/llm_sft/llm/vicuna-7b-v1.5-16k",
+    "mistral": "mistralai/Mistral-7B-Instruct-v0.2",
+    "yi": "/share/qhj/LLMs/Yi-6B-200K",
+    "yi-9b": "/share/qhj/LLMs/Yi-9B-200K",
+    "yi-34b": "/share/qhj/LLMs/Yi-34B-200K",
+    "phi-3": "/share/qhj/LLMs/Phi-3-mini-128k",
+    "mistral-128k": "NousResearch/Yarn-Mistral-7b-128k",
+    "llama2-80k": "yaofu/llama-2-7b-80k",
+    "llama3-8b": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "llama3-80k": "namespace-Pt/Llama-3-8B-Instruct-80K-QLoRA-Merged"
+}
