@@ -45,12 +45,15 @@ The dataset used in this project is available at [Hugging Face](https://huggingf
 If you find this repository useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{qian2024chunkingfree,
-  title={Grounding Language Model with Chunking-Free In-Context Retrieval},
-  author={Hongjin Qian, Zheng Liu, Kelong Mao, Yujia Zhou, Zhicheng Dou},
-  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  year={2024},
-  organization={Association for Computational Linguistics}
+@inproceedings{qian2024grounding,
+    title = "Grounding Language Model with Chunking-Free In-Context Retrieval",
+    author = "Qian, Hongjin  and
+      Liu, Zheng  and
+      Mao, Kelong  and
+      Zhou, Yujia  and
+      Dou, Zhicheng",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    pages = "1298--1311",
 }
 ```
 
